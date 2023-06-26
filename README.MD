@@ -1,0 +1,1 @@
+Web para promocionar APP de venta de NFT.
